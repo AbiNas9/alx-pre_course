@@ -1,2 +1,4 @@
 #!/bin/bas
 echo "school"h
+#!/bin/bash
+echo "School" 
