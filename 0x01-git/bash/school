@@ -1,4 +1,4 @@
-#!/bin/bas
+#!/bin/bais
 echo "school"h
 #!/bin/bash
-echo "School" 
+echo "The school is open!"
